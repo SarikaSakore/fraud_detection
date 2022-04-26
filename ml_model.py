@@ -8,3 +8,6 @@ def module2():
 
 def module3():
     print("adding code for ml module3")
+
+
+print("module2 is performing best")
